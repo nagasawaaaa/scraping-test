@@ -1,0 +1,19 @@
+{
+  "name": "scraping-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "jsdom": "^15.1.1",
+    "moment": "^2.24.0",
+    "puppeteer": "^1.20.0",
+    "request": "^2.88.0"
+  }
+}
